@@ -2,8 +2,11 @@
 a download tool using javafx for GUI. It is my semester project.
 
 设计语言：javafx+java
+
 IDE: intelliJ idea
+
 下载工具：功能包括多线程、多文件、断点续传。
+
 GUI部分：进度条及下载速度的显示，tooltip，根据状态禁用按钮等。
 
 <img src="./res/3.png" width="50%" height="50%">
