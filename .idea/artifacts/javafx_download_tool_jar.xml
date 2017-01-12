@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javafx-download-tool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="javafx-download-tool.jar">
+      <element id="module-output" name="javafx-download-tool" />
+    </root>
+  </artifact>
+</component>
