@@ -7,8 +7,10 @@ IDE: intelliJ idea
 GUI部分：进度条及下载速度的显示，tooltip，根据状态禁用按钮等。
 
 <img src="./res/3.png" width="50%" height="50%">
+
 新建下载：
 <img src="./res/1.png" width="50%" height="50%">
+
 下载中：
 <img src="./res/2.png" width="50%" height="50%">
 
