@@ -6,7 +6,7 @@ IDE: intelliJ idea
 下载工具：功能包括多线程、多文件、断点续传。
 GUI部分：进度条及下载速度的显示，tooltip，根据状态禁用按钮等。
 
-![Alt text](./res/3.png)
+<img src="./res/3.png" width="50%" height="50%">
 新建下载：
 ![Alt text](./res/1.png)
 下载中：
