@@ -8,9 +8,9 @@ GUI部分：进度条及下载速度的显示，tooltip，根据状态禁用按�
 
 <img src="./res/3.png" width="50%" height="50%">
 新建下载：
-![Alt text](./res/1.png)
+<img src="./res/1.png" width="50%" height="50%">
 下载中：
-![Alt text](./res/2.png)
+<img src="./res/2.png" width="50%" height="50%">
 
 界面部分使用javafx，设计以及按钮参考了：https://github.com/m7mdkamal/DownloadLite
 
