@@ -64,7 +64,7 @@ public class MainController
     private void initialize()
     {
         // Initialize
-        tableDownloads.setRowFactory( (TableView<ResourceForUI> tableDownloads) ->
+        tableDownloads.setRowFactory( table ->
         {
             return new TableRow<ResourceForUI>()
             {
